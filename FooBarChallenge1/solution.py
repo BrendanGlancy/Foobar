@@ -1,2 +1,2 @@
 def solution(data, n):
-    # Your code here
+    return [s for s in data if data.count(s) <= n]
