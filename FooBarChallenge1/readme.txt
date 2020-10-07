@@ -1,5 +1,3 @@
-![Alt text](/Users/brendanglancy/Library/Mobile Documents/com~apple~CloudDocs/.Trash/Screen Shot 2020-10-07 at 10.13.40 AM.png?raw=true "Optional Title")
-
 Minion Labor Shifts
 ===================
 
